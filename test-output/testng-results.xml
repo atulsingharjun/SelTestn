@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-26T21:22:18 IST" name="Default suite" finished-at="2024-07-26T21:24:04 IST" duration-ms="105758">
+    <groups>
+    </groups>
+    <test started-at="2024-07-26T21:22:18 IST" name="Default test" finished-at="2024-07-26T21:24:04 IST" duration-ms="105758">
+      <class name="Demo.Orange">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Demo.Orange@496bc455]" started-at="2024-07-26T21:22:18 IST" name="setup" finished-at="2024-07-26T21:23:35 IST" duration-ms="77174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="deleteEmployee()[pri:6, instance:Demo.Orange@496bc455]" started-at="2024-07-26T21:23:35 IST" name="deleteEmployee" finished-at="2024-07-26T21:23:58 IST" duration-ms="23052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmployee -->
+        <test-method is-config="true" signature="down()[pri:0, instance:Demo.Orange@496bc455]" started-at="2024-07-26T21:23:59 IST" name="down" finished-at="2024-07-26T21:24:04 IST" duration-ms="5409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- down -->
+      </class> <!-- Demo.Orange -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
